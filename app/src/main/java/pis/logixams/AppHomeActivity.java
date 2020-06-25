@@ -129,7 +129,7 @@ public class AppHomeActivity extends AppCompatActivity implements NavigationView
     protected void onResume() {
         super.onResume();
 
-       boolean login_status= sharedPreferences.getBoolean("LOGIN_STATUS",false);
+       boolean login_status= sharedPreferences.getBoolean("LOGIN_STATUS",true);
 
         if(!login_status)
         {
