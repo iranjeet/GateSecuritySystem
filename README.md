@@ -1,4 +1,7 @@
 # GateSecuritySystem
+
+[ResearchPaper.pdf](https://github.com/iranjeet/movie_rating_system/files/4869972/ResearchPaper.pdf)
+
 Abstract: In this growing age of technology, it is
 necessary to have a proper gate security system, which
 should provide security and having primary intone to
